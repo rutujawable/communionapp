@@ -7,6 +7,7 @@ import youtube from "./icons/youtube.png"
 import location from "./icons/google-maps.png"
 import call from "./icons/phone.png"
 import message from "./icons/comments.png"
+import React from "react"
 
 
 
